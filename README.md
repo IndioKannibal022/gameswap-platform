@@ -3,7 +3,7 @@
 ## Overview
 GameSwap is a web application developed as a collaborative project, designed to provide an organized, modular and scalable platform for managing and displaying game-related content. The system also serves as the foundation for future features such as game trading, user profiles, reviews and marketplace-style extensions.
 
-The project was built with a focus on clean architecture, responsive interface design and simplified deployment through Docker.
+The project was built with a focus on clean architecture, responsive interface design and simplified deployment through Herd.
 
 ---
 
